@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Mrio1/React/static/css/main.6261c177.chunk.css",
+    "main.js": "/Mrio1/React/static/js/main.bf5901b5.chunk.js",
+    "main.js.map": "/Mrio1/React/static/js/main.bf5901b5.chunk.js.map",
+    "runtime-main.js": "/Mrio1/React/static/js/runtime-main.eb7c008d.js",
+    "runtime-main.js.map": "/Mrio1/React/static/js/runtime-main.eb7c008d.js.map",
+    "static/js/2.40206d6d.chunk.js": "/Mrio1/React/static/js/2.40206d6d.chunk.js",
+    "static/js/2.40206d6d.chunk.js.map": "/Mrio1/React/static/js/2.40206d6d.chunk.js.map",
+    "index.html": "/Mrio1/React/index.html",
+    "static/css/main.6261c177.chunk.css.map": "/Mrio1/React/static/css/main.6261c177.chunk.css.map",
+    "static/js/2.40206d6d.chunk.js.LICENSE.txt": "/Mrio1/React/static/js/2.40206d6d.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/Mrio1/React/static/media/game-bg.76e7db35.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eb7c008d.js",
+    "static/js/2.40206d6d.chunk.js",
+    "static/css/main.6261c177.chunk.css",
+    "static/js/main.bf5901b5.chunk.js"
+  ]
+}
