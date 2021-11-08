@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/React/static/css/main.af1e6cb7.chunk.css",
+    "main.js": "/React/static/js/main.bf5901b5.chunk.js",
+    "main.js.map": "/React/static/js/main.bf5901b5.chunk.js.map",
+    "runtime-main.js": "/React/static/js/runtime-main.406d35d1.js",
+    "runtime-main.js.map": "/React/static/js/runtime-main.406d35d1.js.map",
+    "static/js/2.40206d6d.chunk.js": "/React/static/js/2.40206d6d.chunk.js",
+    "static/js/2.40206d6d.chunk.js.map": "/React/static/js/2.40206d6d.chunk.js.map",
+    "index.html": "/React/index.html",
+    "static/css/main.af1e6cb7.chunk.css.map": "/React/static/css/main.af1e6cb7.chunk.css.map",
+    "static/js/2.40206d6d.chunk.js.LICENSE.txt": "/React/static/js/2.40206d6d.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/React/static/media/game-bg.76e7db35.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.406d35d1.js",
+    "static/js/2.40206d6d.chunk.js",
+    "static/css/main.af1e6cb7.chunk.css",
+    "static/js/main.bf5901b5.chunk.js"
+  ]
+}
