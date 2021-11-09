@@ -1,15 +1,17 @@
 import React from 'react';
+import './info-bar.css';
 
-const GameInfo = ({moves, onJumpTo}) => {
-    const basicClassName = "game__info";
+const GameInfo = ({moves, onJumpTo, outerClassName}) => {
+    const innerClassName = "info-bar";
+    const className = `${outerClassName} ${innerClassName}`
     const movesItem = moves.map((step, move) => {
             return (
                 <li 
-                    className={basicClassName + "__item"}
+                    className={innerClassName + "__item"}
                     key={move}
                 >
                     <button 
-                        className={basicClassName + '__button'}
+                        className={innerClassName + '__button'}
                         onClick={ ()=>{ onJumpTo(move) } }
                     >
                      {move} step
@@ -19,8 +21,8 @@ const GameInfo = ({moves, onJumpTo}) => {
             )
 	    })
     return (
-        <div className={basicClassName}>
-            <ul className={basicClassName + '__list'}>
+        <div className={className}>
+            <ul className={innerClassName + '__list'}>
                 {movesItem}
             </ul>
         </div>
